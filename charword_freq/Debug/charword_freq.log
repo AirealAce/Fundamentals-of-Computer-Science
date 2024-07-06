@@ -1,0 +1,5 @@
+﻿  charword_freq.cpp
+C:\Users\Aaron Mills\Desktop\Code\C++\Assignments\COP3014\charword_freq\charword_freq.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron Mills\Desktop\Code\C++\Assignments\COP3014\charword_freq\charword_freq.cpp(69,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Aaron Mills\Desktop\Code\C++\Assignments\COP3014\charword_freq\charword_freq.cpp(78,21): warning C4018: '<=': signed/unsigned mismatch
+  charword_freq.vcxproj -> C:\Users\Aaron Mills\Desktop\Code\C++\Assignments\COP3014\charword_freq\Debug\charword_freq.exe
